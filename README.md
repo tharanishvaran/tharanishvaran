@@ -1,19 +1,22 @@
 <div align="center">
 
-  <!-- Animated Header Typing Banner -->
-  <a href="https://tharanish-newportfolio.netlify.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=THARANISHVARAN%20R&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20RAG%20Developer%20%7C%20MCA%20Scholar&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header Banner" />
-  </a>
-
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(React+%7C+Node+%7C+Python);Building+AI-Powered+RAG+Applications;100%25+Score+in+TCS+NQT+Hands-on+Programming;Passionate+Problem+Solver+%26+Fast+Learner" alt="Typing SVG" />
-
+  <!-- Aesthetic Header Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A8+THARANISHVARAN+R+%E2%9C%A8" alt="Tharanishvaran R" />
+  
   <br/>
+
+  <!-- Dynamic Typing Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&height=45&lines=Full+Stack+Engineer+%7C+AI+%26+RAG+Developer;MCA+Scholar+%40+SMVEC+(8.82+CGPA);100%25+Score+in+TCS+NQT+Java+Programming;Passionate+Problem+Solver+%26+Fast+Learner" alt="Typing SVG" />
+
+  <br/><br/>
 
   <!-- Social & Contact Badges -->
   <p align="center">
     <a href="https://tharanish-newportfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/tharanishvaran/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://leetcode.com/u/tharanishvaran" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -21,8 +24,8 @@
     <a href="mailto:tharanishvaranr@gmail.com">
       <img src="https://img.shields.io/badge/Email-tharanishvaranr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.instagram.com/tharanish_op" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <img src="https://img.shields.io/badge/Location-Villupuram%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
@@ -43,10 +46,10 @@ Achievements:
   - LeetCode: 40+ Algorithmic Challenges Solved
 ```
 
-- 🔭 **Currently Building:** High-performance AI RAG platforms & cloud-native full-stack solutions.
+- 🔭 **Currently Building:** High-performance AI RAG platforms & cloud-native full-stack web solutions.
 - 🎓 **Education:** Master of Computer Applications (MCA) @ Sri Manakula Vinayagar Engineering College (2025–2027).
 - 💡 **Specialties:** React.js, Node.js/Express, Python/FastAPI, Vector Databases (ChromaDB), REST APIs, Cloud Deployments.
-- 💬 **Ask me about:** JavaScript, Python, Claude API integration, Database optimization, and Web development.
+- 💬 **Ask me about:** Full Stack Development, Python, Claude API integration, Database optimization, and Git.
 
 ---
 
@@ -54,12 +57,45 @@ Achievements:
 
 <div align="center">
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" alt="Frontend" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend" /> |
-| **Databases & AI** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" /> `ChromaDB` `Claude API` `Sentence-Transformers` |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,netlify" alt="DevOps" /> `Render` |
+#### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+#### 🧠 Databases & AI
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### ☁️ DevOps, Tools & Hosting
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 </div>
 
@@ -109,7 +145,7 @@ Achievements:
 ### 🏆 Honors & Certifications
 
 - 🥇 **TCS iON NQT – IT**: **600 / 600 (100%)** in Hands-On Programming (Java) | Total Score: 2143 / 3000
-- 🧩 **LeetCode Algorithmic Problem Solving**: 40+ Data Structures & Algorithms challenges solved
+- 🧩 **LeetCode Algorithmic Problem Solving**: 40+ Data Structures & Algorithms challenges solved ([leetcode.com/u/tharanishvaran](https://leetcode.com/u/tharanishvaran))
 - 📜 **Python Essentials Certification**: Cisco Networking Academy
 - ☕ **Java Programming Certification**: CSE Institute (2024)
 
@@ -131,9 +167,5 @@ Achievements:
 ---
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer" width="100%" alt="Footer Banner" />
-
-  <p>⭐ Designed with passion by <b>Tharanishvaran R</b> | Always open to collaborating on visionary projects! ⭐</p>
-
+  <p>⭐ Designed with passion by <b><a href="https://tharanish-newportfolio.netlify.app/">Tharanishvaran R</a></b> | Always open to collaborating on visionary projects! ⭐</p>
 </div>
